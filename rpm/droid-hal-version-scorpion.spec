@@ -1,5 +1,5 @@
 # rpm_device is the name of the ported device
-%define rpm_device $DEVICE
+%define rpm_device scorpion
 # rpm_vendor is used in the rpm space
 %define rpm_vendor sony
 
