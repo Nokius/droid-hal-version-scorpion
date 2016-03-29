@@ -5,7 +5,7 @@
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Sony
-%define device_pretty Xperia Z3 Compact Tablet
+%define device_pretty Xperia Z3 Tablet Compact
 
 # ../droid-hal-version/droid-hal-device.inc for similar macros
 %define have_vibrator 1
